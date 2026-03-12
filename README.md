@@ -1,42 +1,124 @@
-## 📊 A Study on Customer Segmentation in the FMCG Sector
+# 📊 FMCG Customer Segmentation Analysis
 
-This project focuses on **Customer Segmentation** in the Indian FMCG sector through structured segmentation models and real-world datasets.
+This project analyzes customer segmentation strategies in the Indian FMCG sector using **Tata Consumer Products Ltd. (TCPL)** as a case study. The objective is to understand how consumer behavior, income levels, and lifestyle patterns influence product positioning and marketing strategy.
 
-### 🧩 Segmentation Models Used:
-- **STP Model**: Segmentation, Targeting, Positioning
-- **VALS Model**: Values and Lifestyles
-- **RFM Analysis**: Recency, Frequency, Monetary
+---
+
+## 🎯 Business Problem
+
+FMCG companies operate in highly diverse markets where consumers differ across income levels, lifestyles, and purchasing behavior.
+
+Effective segmentation helps companies:
+
+- Target the right customer groups  
+- Design relevant product offerings  
+- Improve brand positioning  
+- Increase customer loyalty and retention  
+
+This project explores how segmentation frameworks can be used to analyze consumer behavior and strategic product positioning.
+
+---
+
+## 🧠 Segmentation Models Applied
+
+The study applies three widely used marketing and analytics frameworks:
+
+### STP Model
+- Segmentation  
+- Targeting  
+- Positioning  
+
+Used to understand how FMCG brands target different consumer groups.
+
+### VALS Model
+- Values  
+- Attitudes  
+- Lifestyles  
+
+Used to analyze psychographic consumer behavior.
+
+### RFM Analysis
+- Recency  
+- Frequency  
+- Monetary Value  
+
+Used to identify customer loyalty and repeat purchase patterns.
+
+---
 
 ## 🏢 Case Study: Tata Consumer Products Ltd. (TCPL)
 
-A detailed case analysis of **Tata Consumer Products Ltd.**, a leading FMCG brand in India with 200+ million households reached. TCPL’s segmentation strategy is mapped using public datasets and insights from real-time consumer behavior.
+Tata Consumer Products Ltd. is one of India’s leading FMCG companies, reaching **200+ million households** through multiple product categories.
 
-### ✅ Datasets Used:
-- NielsenIQ FMCG Tracker (2023)
-- EY Future Consumer Index (2023)
-- HCES (2023)
-- TCPL Annual Reports (2022–24)
+Key brands analyzed:
 
-## 📈 Key Focus Areas
-- Income-wise and region-specific segmentation
-- Lifestyle and behavioral patterns
-- Psychographic profiles based on VALS
-- Brand loyalty and repeat purchase behavior via RFM
+- Tata Salt  
+- Tata Tea  
+- Tata Sampann  
+- Tata Soulfull  
 
-## 📄 About the Report
+The study evaluates how TCPL aligns its product strategy with different consumer segments.
 
-Submitted as part of an MBA final-year project under **Amity University Online** via **Qollabb EdMentor**, this report was rated **4.5/5**.
-It integrates segmentation theory with practical dashboards, consumer insights, and brand strategy aligned with TCPL’s FMCG portfolio.
+---
 
-## 📁 Files Included
-- `Customer_Segmentation_Report.pdf`: Full report with segmentation frameworks, strategic analysis, and actionable recommendations.
+## 📂 Data Sources
 
-## 🔍 How This Project Adds Value
-This repository offers a real-world example of how segmentation frameworks are used in business analytics to refine customer engagement, drive loyalty, and position brands competitively in the FMCG space.
+The analysis uses publicly available datasets and industry reports, including:
 
-## 🙏 Acknowledgment
+- NielsenIQ FMCG Tracker (2023)  
+- EY Future Consumer Index  
+- Household Consumption & Expenditure Survey (HCES)  
+- TCPL Annual Reports  
 
-This project was submitted as part of the MBA program at **Amity University Online** and evaluated on the **Qollabb EdMentor** platform.  
-Special thanks to the faculty and mentors for their valuable guidance and support throughout the project lifecycle.
+These datasets help analyze:
 
+- Income-based consumption  
+- Regional purchasing behavior  
+- Lifestyle segmentation patterns  
 
+---
+
+## 📈 Key Insights
+
+Major findings from the analysis include:
+
+- Higher FMCG spending is observed in households with monthly consumption expenditure above **₹15,000**.
+- Rural consumers demonstrate stronger brand loyalty and price sensitivity.
+- Urban consumers show higher demand for **premium and health-oriented products**.
+- Psychographic segmentation reveals growing demand for **wellness-focused products such as millet-based foods**.
+
+---
+
+## 💡 Business Recommendations
+
+Based on the segmentation analysis:
+
+- FMCG companies should expand **health-focused product portfolios**.
+- Regional preferences should guide **product distribution strategies**.
+- CRM systems can leverage **RFM analysis to strengthen customer retention**.
+- Digital marketing strategies should align with **lifestyle-based segmentation**.
+
+---
+
+## 📦 Project Deliverables
+
+This repository includes:
+
+- 📄 Full project report  
+- 📊 Segmentation frameworks and analysis  
+- 📈 Consumer behavior insights  
+
+---
+
+## 🛠 Tools Used
+
+- Excel (Data Analysis)
+- PowerPoint (Data Storytelling & Presentation)
+- Business Segmentation Frameworks (STP, VALS, RFM)
+
+---
+
+## 👤 Author
+
+**Saket Kumar Mallik**  
+MBA (Business Analytics) – Amity University Online
